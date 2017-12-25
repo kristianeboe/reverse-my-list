@@ -1,4 +1,4 @@
-### Reverse my list
+# Reverse my list
 Reverse my list is a simple web app where you can paste in a list and reverse it.
 
 ## Demo
